@@ -1,7 +1,7 @@
 # Metode-Numerik
 Pembelajaran tentang metode numerik dengan menggunakan python
 
-> Website yang membahas metode numerik
+**Berikut beberapa website yang membahas metode numerik**
 
 **Metode numerik for life~**
 
