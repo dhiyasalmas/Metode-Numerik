@@ -1,4 +1,6 @@
-# Metode-Numerik **Numerical methods for life~**
+# Metode-Numerik 
+
+**Numerical methods for life~**
 Pembelajaran tentang metode numerik dengan menggunakan python
 
 **Berikut beberapa website yang membahas metode numerik**
