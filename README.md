@@ -1,9 +1,9 @@
-# Metode-Numerik
+# Metode-Numerik **Numerical methods for life~**
 Pembelajaran tentang metode numerik dengan menggunakan python
 
 **Berikut beberapa website yang membahas metode numerik**
 
-**Metode numerik for life~**
+
 
 **1. Numerical Methods with Applications**
 
